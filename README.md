@@ -33,3 +33,9 @@ pip install pyqt5
 ```
 
 Use "deactivate" command to deactivate the virtual environment on your current terminal session.
+
+# Usage
+The examples are located under the [Tutorial](Tutorial/) folder. Execute the following command to run an example file:
+```
+python filename.py
+```
