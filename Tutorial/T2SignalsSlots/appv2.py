@@ -14,7 +14,7 @@ window_titles = [
     "Something went wrong",
 ]
 
-# This version changes the interface of the app
+# This version changes the interface (Window Title) of the app
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()

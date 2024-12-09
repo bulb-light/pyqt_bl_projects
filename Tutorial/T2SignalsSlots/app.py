@@ -1,6 +1,8 @@
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton
 
+# Signal and slot first example
+# connect button clicked signal to a user-defined slot
 class MainWindow(QMainWindow):
 
     def __init__(self):
